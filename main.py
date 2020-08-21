@@ -8,3 +8,4 @@ super1.cargarCatalogo("Psitol de Agua", 5, 0, 0)
 
 Total=super1.sumPrecio()
 print(Total)
+print("Evaluando")
